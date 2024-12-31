@@ -1,0 +1,7 @@
+
+Pipeline run log:
+- Step 1: Cloning repository... Success
+- Step 2: Setting up environment... Success
+- Step 3: Running tests... Success
+- Step 4: Building Docker image... Success
+- Step 5: Deploying to Kubernetes... Success
